@@ -1,0 +1,4 @@
+VAR#>git remote add origin https://github.com/SnakeGuitar/uniair-project.git\
+	git add .\
+	git commit -m "Versión Swing del proyecto"\
+	git push --force origin main
